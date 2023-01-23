@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "627cd58f0f9be69d655f6194"
+  },
+  "userId": {
+    "$oid": "627cd58e0f9be69d655f6191"
+  },
+  "status": "Cart",
+  "totalItem": 1,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2022-05-12T09:38:23.050Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T09:47:40.628Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cefb42178754dcfaedc94"
+  },
+  "userId": {
+    "$oid": "627cefb32178754dcfaedc91"
+  },
+  "status": "Cart",
+  "totalItem": 0,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2022-05-12T11:29:56.128Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T11:29:56.128Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cf00f2178754dcfaedcac"
+  },
+  "userId": {
+    "$oid": "627cf00f2178754dcfaedca9"
+  },
+  "status": "Delivery",
+  "totalItem": 4,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2022-05-12T11:31:27.937Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T01:42:37.108Z"
+  },
+  "__v": 0,
+  "payment": {
+    "total": {
+      "subTotal": 2360.8,
+      "shipping": 75,
+      "tax": 10,
+      "total": 2671.88,
+      "discount": 0
+    },
+    "createdAt": {
+      "$date": "2022-05-14T01:42:37.103Z"
+    },
+    "updatedAt": {
+      "$date": "2022-05-14T01:42:37.103Z"
+    }
+  },
+  "shipping": {
+    "email": "tin.quachtrung@gmail.com",
+    "phone": 1233456657,
+    "city": "Hồ Chí Minh",
+    "district": "Quận 8",
+    "ward": "5",
+    "address1": "ádadsadad",
+    "address2": "",
+    "method": "7",
+    "_id": {
+      "$oid": "627e149cdb8ca211a8a19672"
+    },
+    "updatedAt": {
+      "$date": "2022-05-13T14:26:51.456Z"
+    },
+    "createdAt": {
+      "$date": "2022-05-13T08:19:40.962Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "627f161a3658b0f5dd273da7"
+  },
+  "userId": {
+    "$oid": "627f161a3658b0f5dd273da4"
+  },
+  "status": "Delivery",
+  "totalItem": 1,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2022-05-14T02:38:18.936Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T07:06:35.625Z"
+  },
+  "__v": 0,
+  "payment": {
+    "total": {
+      "subTotal": 3496,
+      "discount": 0,
+      "shipping": 100,
+      "tax": 10,
+      "total": 3945.6
+    },
+    "_id": {
+      "$oid": "627f54fba5ec4bf6b9de4d48"
+    },
+    "createdAt": {
+      "$date": "2022-05-14T07:06:35.624Z"
+    },
+    "updatedAt": {
+      "$date": "2022-05-14T07:06:35.624Z"
+    }
+  },
+  "shipping": {
+    "email": "tin.quachtrung@gmail.com",
+    "phone": 99999999,
+    "city": "Hồ Chí Minh",
+    "district": "8",
+    "ward": "5",
+    "address1": "Nguyễn Huệ",
+    "address2": "",
+    "method": "7",
+    "_id": {
+      "$oid": "627f35d012bdb99b4d79fece"
+    },
+    "updatedAt": {
+      "$date": "2022-05-14T06:53:11.490Z"
+    },
+    "createdAt": {
+      "$date": "2022-05-14T04:53:36.702Z"
+    }
+  }
+}]

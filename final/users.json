@@ -1,0 +1,223 @@
+[{
+  "_id": {
+    "$oid": "62769bda75610f18830933f9"
+  },
+  "name": "tin4",
+  "email": "tin123@gmail.com",
+  "password": "$2a$10$w10g6E1XHQ9FZyTUwP1hGet.f5Pd.beHZ0ZMFsIMN36Yjz1s31SyO",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "user",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-07T16:18:34.219Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-07T16:18:34.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62769c0775610f18830933fd"
+  },
+  "name": "tin4",
+  "email": "tin1234@gmail.com",
+  "password": "$2a$10$dQ1PcDH/4lhfb6Vog.9mCOLRHFjymCCNSaEjekxZKAyy98nLKszbK",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "admin",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-07T16:19:19.397Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-07T16:19:19.397Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627871678f49a30402fa4f3b"
+  },
+  "name": "tin4",
+  "email": "tin1s234@gmail.com",
+  "password": "$2a$10$Oxx6UkIzPj8eVk0BXlhDweCqJgF5DQZ.jV40k5T.IEjGmFQLUYo72",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "admin",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-09T01:41:59.624Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T01:41:59.624Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62788a8310ee386f8f4b0692"
+  },
+  "name": "Bill Chang",
+  "email": "daicaxomchai12@gmail.com",
+  "password": "$2a$10$xZLa/QgzYPg9CiLKhMZgVeKzI528GDV/jQH1Tjl71hLZZvGCfocOS",
+  "isDeleted": false,
+  "role": "user",
+  "isEmailVerified": true,
+  "facebookId": "5435652073153883",
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-09T03:29:07.525Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T03:29:07.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627897fe14e6d4165a6bd48f"
+  },
+  "name": "tin",
+  "email": "d@gmail.com",
+  "password": "$2a$10$Zer5x4kqnF/MZCypIBZA5.YEMYJKmaAynWRt6jjvIkpY9d1WjGxh2",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "user",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-09T04:26:38.788Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T04:26:38.788Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cb3b51d414f3fc67f89d4"
+  },
+  "name": "tin4",
+  "email": "tin1111234@gmail.com",
+  "password": "$2a$10$/CLWgyns5J/w2dC6HWv2Q.Qg49BxT.tvnYcs8lELKaFardmXmDOWK",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "admin",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-12T07:13:57.983Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T07:13:58.258Z"
+  },
+  "__v": 0,
+  "cartId": {
+    "$oid": "627cb3b61d414f3fc67f89d7"
+  }
+},{
+  "_id": {
+    "$oid": "627cd58e0f9be69d655f6191"
+  },
+  "name": "tin",
+  "email": "ds@gmail.com",
+  "password": "$2a$10$7cEA5oQxnbayEPcSuyOY8.YiDvkaYVo4nN8G3/8RdO/RwgDSD24i.",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "user",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-12T09:38:22.757Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T09:38:23.057Z"
+  },
+  "__v": 0,
+  "cartId": {
+    "$oid": "627cd58f0f9be69d655f6194"
+  }
+},{
+  "_id": {
+    "$oid": "627cefb32178754dcfaedc91"
+  },
+  "name": "trung tin",
+  "email": "tinasd@gmail.com",
+  "password": "$2a$10$8bKobJ1sNclYyeGaV3DLpurq89QAohZgV7xEQqKb3h1nvUH/4Wgly",
+  "isDeleted": false,
+  "role": "user",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-12T11:29:55.873Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T11:29:56.138Z"
+  },
+  "__v": 0,
+  "cartId": {
+    "$oid": "627cefb42178754dcfaedc94"
+  }
+},{
+  "_id": {
+    "$oid": "627cf00f2178754dcfaedca9"
+  },
+  "name": "tin",
+  "email": "dsd@gmail.com",
+  "password": "$2a$10$lNXqlzwH6R4omH0fQrH1r.9PKQ6NwaAm/uhWVjHOOq8ASmRu9rPFi",
+  "isDeleted": false,
+  "phone": 123345123,
+  "address": "123123454",
+  "role": "user",
+  "isEmailVerified": false,
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-12T11:31:27.628Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T11:31:27.945Z"
+  },
+  "__v": 0,
+  "cartId": {
+    "$oid": "627cf00f2178754dcfaedcac"
+  }
+},{
+  "_id": {
+    "$oid": "627f161a3658b0f5dd273da4"
+  },
+  "name": "Tín Quách",
+  "email": "tin.quachtrung@gmail.com",
+  "password": "$2a$10$Nn93aISwnvKulgVP86wgveOYWLos1RJwipcaSUI.SHt5aKHfKRke6",
+  "isDeleted": false,
+  "avatarUrl": "https://lh3.googleusercontent.com/a/AATXAJyw-E2rE2wmS0iqToSGXshug6suesTRlW-9SrBM=s96-c",
+  "role": "admin",
+  "isEmailVerified": true,
+  "googleId": "109261884655365013829",
+  "isResetPassword": false,
+  "creditCards": [],
+  "createdAt": {
+    "$date": "2022-05-14T02:38:18.496Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T02:38:18.951Z"
+  },
+  "__v": 0,
+  "cartId": {
+    "$oid": "627f161a3658b0f5dd273da7"
+  }
+}]

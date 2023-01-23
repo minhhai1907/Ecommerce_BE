@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "627cd5ad0f9be69d655f61a2"
+  },
+  "cartId": {
+    "$oid": "627cd58f0f9be69d655f6194"
+  },
+  "productId": {
+    "$oid": "627ca8b9d7401e3ce9387181"
+  },
+  "quantity": 4,
+  "createdAt": {
+    "$date": "2022-05-12T09:38:53.292Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-12T09:40:24.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627deba7847a57bbd008415c"
+  },
+  "cartId": {
+    "$oid": "627cf00f2178754dcfaedcac"
+  },
+  "productId": {
+    "$oid": "627ced835f4918ce08085387"
+  },
+  "quantity": 25,
+  "createdAt": {
+    "$date": "2022-05-13T05:24:55.227Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T01:46:57.271Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627e30a233697db79cb2db91"
+  },
+  "cartId": {
+    "$oid": "627cf00f2178754dcfaedcac"
+  },
+  "productId": {
+    "$oid": "627ced835f4918ce0808538b"
+  },
+  "quantity": 6,
+  "createdAt": {
+    "$date": "2022-05-13T10:19:14.451Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T01:46:53.441Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627e4a9a33697db79cb2deb2"
+  },
+  "cartId": {
+    "$oid": "627cf00f2178754dcfaedcac"
+  },
+  "productId": {
+    "$oid": "627ced948f0415fe930cb164"
+  },
+  "quantity": 21,
+  "createdAt": {
+    "$date": "2022-05-13T12:10:02.017Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T01:46:51.823Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627f090c9e948f62588cccb2"
+  },
+  "cartId": {
+    "$oid": "627cf00f2178754dcfaedcac"
+  },
+  "productId": {
+    "$oid": "627ced835f4918ce08085391"
+  },
+  "quantity": 1,
+  "createdAt": {
+    "$date": "2022-05-14T01:42:37.015Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T01:42:37.015Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627f16253658b0f5dd273dba"
+  },
+  "cartId": {
+    "$oid": "627f161a3658b0f5dd273da7"
+  },
+  "productId": {
+    "$oid": "627ced835f4918ce08085389"
+  },
+  "quantity": 20,
+  "createdAt": {
+    "$date": "2022-05-14T02:38:29.092Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-14T06:54:39.189Z"
+  },
+  "__v": 0
+}]

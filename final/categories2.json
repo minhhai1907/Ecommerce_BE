@@ -1,0 +1,394 @@
+[{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236f5"
+  },
+  "title": "Components",
+  "icon": "DevicesIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.881Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.881Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236f6"
+  },
+  "title": "Computers",
+  "icon": "ImportantDevicesIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.884Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.884Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236f7"
+  },
+  "title": "Cameras&Video",
+  "icon": "CameraIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.885Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.885Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236f8"
+  },
+  "title": "Headphones",
+  "icon": "HeadphonesIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.886Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.886Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236f9"
+  },
+  "title": "Office",
+  "icon": "PrintIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.887Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.887Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236fa"
+  },
+  "title": "Smart Watch",
+  "icon": "WatchIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.888Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.888Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e4e919a7ab61193236fb"
+  },
+  "title": "Phones",
+  "icon": "PhoneIphoneIcon",
+  "parent": null,
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:54:49.889Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:54:49.889Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "title": "Core Components",
+  "parent": {
+    "$oid": "6278e4e919a7ab61193236f5"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:55:32.275Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:55:32.275Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e51423d8a01922e9f709"
+  },
+  "title": "Storages devices",
+  "parent": {
+    "$oid": "6278e4e919a7ab61193236f5"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:55:32.279Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:55:32.279Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e51423d8a01922e9f70a"
+  },
+  "title": "Accessories",
+  "parent": {
+    "$oid": "6278e4e919a7ab61193236f5"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T09:55:32.280Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T09:55:32.280Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e68a93e6f457741e58e1"
+  },
+  "title": "Motherboards",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:01:46.050Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:01:46.050Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1db9"
+  },
+  "title": "Memory",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.004Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.004Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dbf"
+  },
+  "title": "HDD",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f709"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.019Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.019Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc0"
+  },
+  "title": "SSDs",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f709"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.019Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.019Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc1"
+  },
+  "title": "Backup Devices",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f709"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.020Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc2"
+  },
+  "title": "USB and Memory",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f709"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.020Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc3"
+  },
+  "title": "Network portable",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f709"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.020Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc4"
+  },
+  "title": "Thermal Compounds",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f70a"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.022Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.022Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc5"
+  },
+  "title": "Adapters & Gender Changers",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f70a"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.023Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.023Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc6"
+  },
+  "title": "KVM Switches",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f70a"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.023Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.023Z"
+  }
+},{
+  "_id": {
+    "$oid": "6278e6a78f94eedc909f1dc7"
+  },
+  "title": "Hubs",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f70a"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-09T10:02:16.023Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-09T10:02:16.023Z"
+  }
+},{
+  "_id": {
+    "$oid": "6279bd7d0bee525a4f2ce5ec"
+  },
+  "title": "Power Supply",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-10T01:18:54.001Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-10T01:18:54.001Z"
+  }
+},{
+  "_id": {
+    "$oid": "6279bd7d0bee525a4f2ce5ed"
+  },
+  "title": "Computer Case",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-10T01:18:54.003Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-10T01:18:54.003Z"
+  }
+},{
+  "_id": {
+    "$oid": "6279bd7d0bee525a4f2ce5ee"
+  },
+  "title": "Video Cards",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-10T01:18:54.007Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-10T01:18:54.007Z"
+  }
+},{
+  "_id": {
+    "$oid": "6279bd7d0bee525a4f2ce5ef"
+  },
+  "title": "Fans",
+  "parent": {
+    "$oid": "6278e51423d8a01922e9f708"
+  },
+  "isDeleted": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-05-10T01:18:54.008Z"
+  },
+  "updatedAt": {
+    "$date": "2022-05-10T01:18:54.008Z"
+  }
+}]
